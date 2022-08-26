@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning & Artificial Intelligence
 - 🌱 I’m currently learning Data Science at GUVI
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning projects
-- 📫 How to reach me abhijeetkale1744@gmail.com
+- 📫 Reach me @ --> abhijeetkale1744@gmail.com
 
 <!---
 Abhijeet8484/Abhijeet8484 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
